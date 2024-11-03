@@ -36,6 +36,7 @@
 
 2. **Know About Folder Structure** 
 
+```plaintext
 wp-plugin-boilerplate/
 ├── assets/               # Styles, scripts, and images
 ├── includes/             # Core plugin functions and classes
@@ -45,6 +46,7 @@ wp-plugin-boilerplate/
 │   └── admin-pages/
 ├── languages/            # Language files for translation
 └── wp-plugin-boilerplate.php # Main plugin file
+
 
 Note: This plugin boilerplate is a development tool. It includes essential structures and helper functions but leaves customization to the developer.
 
