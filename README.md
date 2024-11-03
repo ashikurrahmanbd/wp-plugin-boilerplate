@@ -33,3 +33,19 @@
 1. **Download or Clone** this repository.
    ```bash
    git clone https://github.com/username/wp-plugin-boilerplate.git
+
+2. **Know About Folder Structure** 
+
+wp-plugin-boilerplate/
+├── assets/               # Styles, scripts, and images
+├── includes/             # Core plugin functions and classes
+├── modules/              # Modular components (CPTs, taxonomies, etc.)
+│   ├── custom-post-types/
+│   ├── taxonomies/
+│   └── admin-pages/
+├── languages/            # Language files for translation
+└── wp-plugin-boilerplate.php # Main plugin file
+
+Note: This plugin boilerplate is a development tool. It includes essential structures and helper functions but leaves customization to the developer.
+
+
