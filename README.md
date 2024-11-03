@@ -1,0 +1,1 @@
+# A clean and Standard WordPress Plugin Development BoilerPlate.
