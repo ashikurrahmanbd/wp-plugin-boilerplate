@@ -2,8 +2,6 @@
 
 **A robust, modular boilerplate to kickstart your WordPress plugin development, with organized file structures and essential WordPress standards.**
 
-![WP Plugin Boilerplate Logo](https://your-image-link-here.com/logo.png) <!-- Optional: Add a logo or banner image -->
-
 ---
 
 ## 📋 Table of Contents
