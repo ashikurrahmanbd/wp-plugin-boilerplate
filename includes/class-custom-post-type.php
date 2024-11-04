@@ -10,6 +10,7 @@ class Class_custom_post_type{
     }
     
     public static function register_custom_post_type() {
+
         register_post_type('custom_type', [
             'labels' => [
                 'name' => __('Custom Types'),
